@@ -32,3 +32,4 @@ console.log("Product with no variables: ", 1 * 2 * 3)
 console.log("\n");
 
 
+//Detect this change in code
