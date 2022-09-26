@@ -8,8 +8,8 @@ console.log("\n")
 //Addition
 console.log("Addition");
 console.log("--------")
-console.log("Sum using variable: ", numFour);
-console.log("Sum with no variables: ", 1 + 2 + 3);
+console.log("Sum using variable:", numFour);
+console.log("Sum with no variables:", 1 + 2 + 3);
 
 console.log("\n");
 
@@ -17,8 +17,8 @@ console.log("\n");
 numFour = (numOne - numTwo - numThree)
 console.log("Subtraction");
 console.log("-----------")
-console.log("Differnece using variable: ", numFour);
-console.log("Difference with no variables: ", 1 - 2 - 3);
+console.log("Differnece using variable:", numFour);
+console.log("Difference with no variables:", 1 - 2 - 3);
 
 console.log("\n");
 
@@ -26,11 +26,12 @@ console.log("\n");
 numFour = (numOne * numTwo * numThree);
 console.log("Multiplication");
 console.log("--------------")
-console.log("Product using variable: ", numFour);
-console.log("Product with no variables: ", 1 * 2 * 3)
+console.log("Product using variable:", numFour);
+console.log("Product with no variables:", 1 * 2 * 3)
 
 console.log("\n");
 
 
 //Detect this change in code
 //Local Test 
+//Visual studio test
